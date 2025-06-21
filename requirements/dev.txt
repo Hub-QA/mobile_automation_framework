@@ -1,0 +1,11 @@
+# Dev dependencies: инструменты для разработки, отчётов и логгирования
+
+
+allure-pytest==2.14.3  # Интеграция с Allure Reports (генерация красивых отчётов)
+pytest-xdist==3.6.1    # Параллельный запуск тестов (pytest -n auto)
+pytest-html==4.1.1     # Генерация HTML-отчётов
+loguru==0.7.2          # Удобное логгирование вместо стандартного logging
+
+
+# pip install -r requirements/dev.txt установить зависимости 
+# -r base.txt включаем все базовые зависимости

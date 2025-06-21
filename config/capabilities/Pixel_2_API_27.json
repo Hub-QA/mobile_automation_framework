@@ -1,0 +1,8 @@
+{
+  "platformName": "Android",
+  "automationName": "UiAutomator2",
+  "deviceName": "Pixel_2_API_27",
+  "platformVersion": "8.1",
+  "appPackage": "com.google.android.keep",
+  "appActivity": ".activities.BrowseActivity"
+}

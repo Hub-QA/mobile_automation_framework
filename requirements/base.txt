@@ -1,0 +1,8 @@
+# Base dependencies: минимальный набор для запуска Appium-тестов
+
+appium-python-client==3.0.0  # Библиотека Appium для Python
+pytest==7.4.0                # Фреймворк для автоматизации тестов
+selenium==4.19.0             # Базовая поддержка WebDriver/Appium
+python-dotenv==1.0.1         # Для загрузки переменных окружения из .env
+
+# pip install -r requirements/base.txt
