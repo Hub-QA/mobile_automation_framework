@@ -24,7 +24,7 @@
 #### Структура проекта: 
 
 ```bash
-📁 mobile_tests_framework/
+📁 mobile_automation_framework/
 ├── 📄 README.md                    # Основная документация проекта
 ├── 📂 allure-results/              # Отчеты Allure
 ├── ⚙️ config/                      # Конфигурация управление настройками
@@ -82,7 +82,7 @@ emulator -avd Pixel_2 -netdelay none -netspeed full
 4. Перейди в папку проекта:
  ```bash
 # Перейди в папку проекта:
-cd ~/Desktop/mobile_tests_framework
+cd ~/Desktop/mobile_automation_framework
 ```
 
 5. Запустить тесты:
